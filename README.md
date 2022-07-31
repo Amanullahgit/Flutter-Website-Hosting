@@ -1,16 +1,25 @@
-# my_designer_website
+# Flutter Web Tutorial + Firebase Hosting For Free
 
-A new Flutter project.
+Source Code for Flutter Web Hosting With Firebase.<br>
 
-## Getting Started
+## App Features
+- Responsive Website.<br>
+- Live Hosted On Firebase.
+<br><br>
 
-This project is a starting point for a Flutter application.
+![mydesigner](https://user-images.githubusercontent.com/41961773/182013220-a8b14faa-70eb-4de0-b354-c96f853bbbb4.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Visit Website Here](https://my-designer-website.web.app/)
+
+For Step By Step Guide Follow Video Tutorials:
+- [How To Build Website Using Flutter And Host For Free Into Firebase - Free Web Hosting](https://bit.ly/3Jkyus9)
+
+## Links used in project:
+
+- [Firebase Core](https://bit.ly/3lSrhDt)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
